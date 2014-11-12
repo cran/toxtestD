@@ -1,0 +1,11 @@
+cb9dea2da1095cdac18a20d9c1a3f51c *DESCRIPTION
+55575429c57fde94fcd25004342476a3 *NAMESPACE
+a3edb2b68c9cfee0cf8d2138a4a8868d *R/Part01_spoD.R
+6537f43f3abf9d8390b0b418ec882bfe *R/Part02_setD.R
+f6c89ac4b1674210e862c1dd9b565a2e *R/Part03_doseD.R
+4a95e42e80e46638a6bff01d47e86da5 *R/toxtestD-internal.R
+866dc40757e9777b44a5e29621e92a5e *man/doseD.Rd
+70cf388cfeaf8dbd2913d10fe14ed961 *man/setD.Rd
+e9eb4475b54064369617711843e1ba3d *man/spoD.Rd
+902ab9381fcdd86e41b280abf34581cc *man/toxtestD-internal.Rd
+35d650bdfa48aff4f5eb24af37d95e81 *man/toxtestD-package.Rd
